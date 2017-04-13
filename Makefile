@@ -1,4 +1,5 @@
 # Variables are documented in hack/build.sh.
+NAMESPACE = mid/
 BASE_IMAGE_NAME = builder-ruby
 VERSIONS = 2.2 2.3
 OPENSHIFT_NAMESPACES = 2.0
